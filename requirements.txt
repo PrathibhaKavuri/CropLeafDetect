@@ -1,0 +1,12 @@
+streamlit
+tensorflow
+keras
+opencv-python
+numpy
+pandas
+matplotlib
+groq
+fastapi
+uvicorn
+python-multipart
+dotenv
